@@ -17,3 +17,5 @@ pins from the mositure meter to Arduino
               
               
 sh1106.cpp and sh1106.h are drivers and libraries for the display.
+
+the svg for the lasercutter is also included.
